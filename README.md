@@ -2,5 +2,5 @@
 Simple Bloch Sphere implementation
 
 # Implementation 
-1. Use Glowscript online editor for direct visualization <br>
-2. Spyder with Vpython installtion can also be used.
+
+1. Spyder with Vpython installation can also be used.
